@@ -1,10 +1,10 @@
-# [Read my blog](https://tobiasvl.github.io)
-
 <img src="https://github.com/tobiasvl/tobiasvl/raw/master/language_graph.png" height="30%" width="30%" align="right">
 
-I'm a hobbyist game developer, and my games can be found on [my itch.io page](https://tobiasvl.itch.io) (as well as here on GitHub). I like making games in small, restrictive retro-esque game environments such as PICO-8, CHIP-8, bitsy, Game Boy, etc.
+Read [**my blog**](https://tobiasvl.github.io), where I write about my projects.
 
-I love retro computing, and have a few related projects:
+I'm a **hobbyist game developer**, and my games can be found on [my itch.io page](https://tobiasvl.itch.io) (as well as here on GitHub). I like making games in small, restrictive retro-esque game environments such as PICO-8, CHIP-8, bitsy, Game Boy, etc.
+
+I love **retro computing**, and have a few related projects:
 
 * [DRÖM](drom): Lua/LÖVE-based emulator of the [DREAM 6800](http://www.mjbauer.biz/DREAM6800.htm) microcomputer
   * [CHIPOSLO](chiposlo): A modified version of the DREAM's CHIP-8 interpreter, written in M6800 assembly
