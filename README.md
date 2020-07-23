@@ -1,4 +1,4 @@
-<img src="https://github.com/tobiasvl/tobiasvl/raw/master/language_graph.png" height="30%" width="30%" align="right">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tobiasvl" align="right">
 
 Read [**my blog**](https://tobiasvl.github.io), where I write about my projects.
 
