@@ -4,6 +4,7 @@ Read [**my blog**](https://tobiasvl.github.io), where I write about my projects.
 
 <details>
 <summary>Latest blog posts</summary>
+  
 <!-- BLOG-POST-LIST:START -->
 - [Guide to making a CHIP-8 emulator](https://tobiasvl.github.io/blog/write-a-chip-8-emulator/)
 - [Emulating the Space Invaders look and feel](https://tobiasvl.github.io/blog/space-invaders/)
