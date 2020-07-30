@@ -4,7 +4,13 @@ Read [**my blog**](https://tobiasvl.github.io), where I write about my projects.
 
 <details>
 <summary>Latest blog posts</summary>
-<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+- [Guide to making a CHIP-8 emulator](https://tobiasvl.github.io/blog/write-a-chip-8-emulator/)
+- [Emulating the Space Invaders look and feel](https://tobiasvl.github.io/blog/space-invaders/)
+- [An emulator UI](https://tobiasvl.github.io/blog/an-emulator-ui/)
+- [Choosing the wrong M6800 assembler](https://tobiasvl.github.io/blog/choosing-the-wrong-m6800-assembler/)
+- [Extending CHIPOS with more CHIP-8 instructions](https://tobiasvl.github.io/blog/chipos-hacking/)
+<!-- BLOG-POST-LIST:END -->
 
 </details>
 
