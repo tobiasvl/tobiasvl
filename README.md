@@ -2,6 +2,12 @@
 
 Read [**my blog**](https://tobiasvl.github.io), where I write about my projects.
 
+<details>
+<summary>Latest blog posts</summary>
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
+
+</details>
+
 I'm a **hobbyist game developer**, and my games can be found on [my itch.io page](https://tobiasvl.itch.io) (as well as here on GitHub). I like making games in small, restrictive retro-esque game environments such as PICO-8, CHIP-8, bitsy, Game Boy, etc.
 
 <details>
