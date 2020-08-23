@@ -13,3 +13,6 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://tobiasvl.github.io/feed.xml"
+          template: "* [$title]($url) ($date)$newline"
+          date_format: "yyyy-mm-dd"
+          tag_post_pre_newline: true
