@@ -6,7 +6,7 @@ Read [**my blog**](https://tobiasvl.github.io), where I write about my projects.
 <summary>Latest blog posts</summary>
   
 <!-- BLOG-POST-LIST:START -->
-* [Running CHIP-8 on an HP 48 calculator](https://tobiasvl.github.io/blog/chip-8-hp-48/) (2020-10-31)
+* [Running CHIP-8 on an HP 48 calculator](https://tobiasvl.github.io/blog/chip-8-hp-48/) (2020-10-13)
 * [Guide to making a CHIP-8 emulator](https://tobiasvl.github.io/blog/write-a-chip-8-emulator/) (2020-07-20)
 * [Emulating the Space Invaders look and feel](https://tobiasvl.github.io/blog/space-invaders/) (2020-06-09)
 * [An emulator UI](https://tobiasvl.github.io/blog/an-emulator-ui/) (2020-05-31)
