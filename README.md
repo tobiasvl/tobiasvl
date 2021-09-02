@@ -37,5 +37,5 @@ I love **retro computing**, and have a few related projects:
   * [CHIPOSLO](https://github.com/tobiasvl/chiposlo): A modified version of the DREAM's CHIP-8 interpreter, written in M6800 assembly
 * [Moon Invaders](https://github.com/tobiasvl/moon-invaders): Lua/LÖVE-based emulator of the _Space Invaders_ arcade cabinet
   * [lua-8080](https://github.com/tobiasvl/lua-8080): Intel 8080 emulator core written in Lua
-* [Optable](https://github.com/tobiasvl/optable): A [website](https://tobiasvl.github.io/optables) with opcode tables for various 8-bit CPUs
+* [Optable](https://github.com/tobiasvl/optable): A [website](https://tobiasvl.github.io/optable) with opcode tables for various 8-bit CPUs
 * [CHIP-8 research](https://chip-8.github.io): A website/organization with information about [CHIP-8](https://en.wikipedia.org/wiki/CHIP-8).
