@@ -1,4 +1,5 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tobiasvl&layout=compact" align="right">
+<a href='https://ko-fi.com/Y8Y7H68DU' target='_blank'><img src='https://ko-fi.com/img/githubbutton_sm.svg' border='0' alt='Buy Me a Coffee at ko-fi.com' align='right' /></a>
 
 Read [**my blog**](https://tobiasvl.github.io), where I write about my projects.
 
