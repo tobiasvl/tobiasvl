@@ -12,7 +12,6 @@ Read [**my blog**](https://tobiasvl.github.io), where I write about my projects.
 * [Emulating the Space Invaders look and feel](https://tobiasvl.github.io/blog/space-invaders/) (2020-06-09)
 * [An emulator UI](https://tobiasvl.github.io/blog/an-emulator-ui/) (2020-05-31)
 * [Choosing the wrong M6800 assembler](https://tobiasvl.github.io/blog/choosing-the-wrong-m6800-assembler/) (2020-04-29)
-
 <!-- BLOG-POST-LIST:END -->
 
 </details>
@@ -34,9 +33,10 @@ I'm a **hobbyist game developer**, and my games can be found on [my itch.io page
 
 I love **retro computing**, and have a few related projects:
 
+* [LADX Disassembly](https://github.com/zladx/LADX-Disassembly): I'm a contributor to the _The Legend of Zelda: Link's Awakening DX_ disassembly project
+  * [_Legenden om Zelda: Links oppvåkning_](https://vindfisken.no): Norwegian translation of _Link's Awakening_
 * [DRÖM](https://github.com/tobiasvl/drom): Lua/LÖVE-based emulator of the [DREAM 6800](http://www.mjbauer.biz/DREAM6800.htm) microcomputer
   * [CHIPOSLO](https://github.com/tobiasvl/chiposlo): A modified version of the DREAM's CHIP-8 interpreter, written in M6800 assembly
-* [Moon Invaders](https://github.com/tobiasvl/moon-invaders): Lua/LÖVE-based emulator of the _Space Invaders_ arcade cabinet
-  * [lua-8080](https://github.com/tobiasvl/lua-8080): Intel 8080 emulator core written in Lua
+* [Moon Invaders](https://github.com/tobiasvl/moon-invaders): Lua/LÖVE-based emulator of the _Space Invaders_ Intel 8080 arcade cabinet
 * [Optable](https://github.com/tobiasvl/optable): A [website](https://tobiasvl.github.io/optable) with opcode tables for various 8-bit CPUs
 * [CHIP-8 research](https://chip-8.github.io): A website/organization with information about [CHIP-8](https://en.wikipedia.org/wiki/CHIP-8).
